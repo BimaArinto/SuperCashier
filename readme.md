@@ -80,5 +80,5 @@ Menambahkan barang kembali dan menghitung total belanja.
 ![Test_case_4](https://github.com/BimaArinto/SuperCashier/assets/98025217/db9e32bf-a13d-4969-b260-d6c5bb07d6ba)
 
 ## 5. Future Work
-- a. Menambahkan sistem kemanan dengan memberikan User Authentication, sehingga pelanggan dapat dengan tenang berbelanja tanpa harus khawatir jika perangkat pelanggan digunakan kerabat, anak, maupun keluarga dan membuat transaksi tidak disengaja.
+- a. Menambahkan sistem kemanan dengan memberikan User Authentication, sehingga pelanggan dapat dengan tenang berbelanja tanpa harus khawatir jika perangkat pelanggan digunakan kerabat, anak, maupun keluarga dan membuat transaksi tidak disengaja maupun disengaja.
 - b. Menambahkan Transaction History atau riwayat belanja sehingga pelanggan dapat melihat dan mengoreksi kembali belanjaan yang sudah dibeli.
